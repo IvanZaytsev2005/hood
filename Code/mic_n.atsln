@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "mic_n", "mic_n\mic_n.cproj", "{1AB8A27D-5CA3-4DEA-8282-F66B34B98B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AB8A27D-5CA3-4DEA-8282-F66B34B98B38}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1AB8A27D-5CA3-4DEA-8282-F66B34B98B38}.Debug|AVR.Build.0 = Debug|AVR
+		{1AB8A27D-5CA3-4DEA-8282-F66B34B98B38}.Release|AVR.ActiveCfg = Release|AVR
+		{1AB8A27D-5CA3-4DEA-8282-F66B34B98B38}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
